@@ -1,4 +1,4 @@
-d# React Challenge
+
 
 ## :information_source: About
 
